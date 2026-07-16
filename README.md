@@ -1,4 +1,5 @@
 # 2D_RPG
+A simple 2D RPG. Mainly made to learn Java in a fun way. All textures and art are not mine.
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
